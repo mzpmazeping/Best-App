@@ -1,0 +1,2 @@
+test
+git add之后修改文件后，要重新git add
