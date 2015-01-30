@@ -318,13 +318,3 @@ Released under [MIT] LICENSE
 [Atom]: https://atom.io/
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
-
-
-
-
-
-
-
-
-
-************just for exercise
